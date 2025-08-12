@@ -22,19 +22,12 @@ _Knowing my way around bits, bytes, and beautiful interfaces._
 
 ### Currently Learning & Interested In
 
-- C — low level mastery  
-- C++ — object-oriented power  
-- Assembly — machine whisperer  
-- R — data crunching guru  
-- Scala — scalable and functional  
+- C  
+- C++  
+- Assembly 
+- R 
+- Scala 
 
----
-
-### Interests
-
-- UX/UI design — clean, minimal, efficient  
-- Data organization and security — chaos control  
-- Lifelong learner — always upgrading  
 
 ---
 
