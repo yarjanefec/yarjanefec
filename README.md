@@ -45,8 +45,8 @@ Exploring the intersection of design, development, and data.
 
 ### 🎨 Design Tools
 
-જ⁀➴ **Adobe Photoshop** — My all-time favorite for creating and editing amazing visuals!  
-•⩊• **Adobe After Effects** — For adding motion and magic to my projects.  
+ღ **Adobe Photoshop** — My all-time favorite for creating and editing amazing visuals!  
+- **Adobe After Effects** — For adding motion and magic to my projects.  
 
 ---
 
