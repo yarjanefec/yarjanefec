@@ -8,7 +8,7 @@
 </div>
 <br>
 
-**Software Engineering student**  
+✦ **Software Engineering student**  
 Exploring the intersection of design, development, and data.
 
 ---
