@@ -9,6 +9,7 @@
 <br>
 
 ✦ **Software Engineering student** ✦ 
+<br>
 Exploring the intersection of design, development, and data.
 
 ---
