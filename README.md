@@ -6,6 +6,7 @@
 <div align="center">
 ❤︎
 </div>
+<br>
 
 Software Engineering student  
 Exploring the intersection of design, development, and data.
