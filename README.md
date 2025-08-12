@@ -1,9 +1,12 @@
 <div align="center">
-─ ──── ────୨ৎ──── ──── ─
-  
+─ ──── ────୨ৎ──── ──── ─  
 </div>
 
 
 <br>
 
 ![Banner](images/banner-yarja.png)
+
+<div align="center">
+❤︎
+</div>
