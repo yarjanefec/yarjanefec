@@ -22,8 +22,6 @@ Exploring the intersection of design, development, and data.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 ---
 
@@ -41,7 +39,14 @@ Exploring the intersection of design, development, and data.
 
 - UX/UI design  
 - Data organization and security  
-- Continuous learning and growth  
+- Continuous learning and growth
+
+---
+
+### 🎨 Design Tools
+
+💖 **Adobe Photoshop** — My all-time favorite for creating and editing amazing visuals!  
+🎬 **Adobe After Effects** — For adding motion and magic to my projects.  
 
 ---
 
