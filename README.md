@@ -45,7 +45,7 @@ Exploring the intersection of design, development, and data.
 
 ### 🎨 Design Tools
 
-- ╰┈➤ **Adobe Photoshop & After Effects**  
+ ╰┈➤ **Adobe Photoshop & After Effects**  
   ------------------ 
   My all-time favorites for creating and editing amazing visuals!
 
