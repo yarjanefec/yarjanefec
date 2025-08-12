@@ -14,7 +14,7 @@ Exploring the intersection of design, development, and data.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,7 +25,7 @@ Exploring the intersection of design, development, and data.
 
 ---
 
-### 🚀 Currently Learning & Interested In
+### 👁 Currently Learning & Interested In
 
 - C  
 - C++  
@@ -35,7 +35,7 @@ Exploring the intersection of design, development, and data.
 
 ---
 
-### 🌸 Interests
+### ⋮ Interests
 
 - UX/UI design  
 - Data organization and security  
@@ -43,7 +43,7 @@ Exploring the intersection of design, development, and data.
 
 ---
 
-### 🎨 Design Tools
+### ✎𓂃 Design Tools
 
  ╰┈➤ **Adobe Photoshop & After Effects**  
   ------------------ 
