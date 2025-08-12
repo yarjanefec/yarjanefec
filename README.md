@@ -8,7 +8,7 @@
 </div>
 
 Software Engineering student  
-Passionate about **UX/UI design**, programming, and knowledge.  
+Exploring the intersection of design, development, and data.
 
 ---
 
@@ -25,10 +25,19 @@ Passionate about **UX/UI design**, programming, and knowledge.
 
 ---
 
+### 🚀 Currently Learning & Interested In
+
+- C  
+- C++  
+- Assembly  
+- R  
+- Scala  
+
+---
+
 ### 🌸 Interests
 
 - UX/UI design  
-- Creating **blogs** and **wikis**  
 - Data organization and security  
 - Continuous learning and growth  
 
