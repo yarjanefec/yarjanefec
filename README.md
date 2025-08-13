@@ -63,4 +63,12 @@ _Knowing my way around bits, bytes, and beautiful interfaces._
 
 ---
 
-<p align="center"><strong><em>“Always curious, always growing.”</em></strong></p>
+<p align="center">
+  <code style="font-size:16px; letter-spacing:1px;">always curious · always growing</code>
+</p>
+
+<br>
+<div align="center" style="opacity:0.6;font-size:12px;">
+crafted with clarity by Yarjá
+</div>
+
