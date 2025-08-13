@@ -1,4 +1,4 @@
-![Banner](images/chi-banner.png)
+<img src="images/chi-banner.png" style="border: 1px solid #2E2E2E"/>
 
 <br>
 <div align="center">
