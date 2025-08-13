@@ -6,10 +6,9 @@
 </div>
 <br>
 
-<div align="left" style="border-left: 4px solid #0F172A; padding-left: 12px;">
-  ✦ <strong>Software Engineering student</strong>  
-  <em>Knowing my way around bits, bytes, and beautiful interfaces.</em>
-</div>
+✦ **Software Engineering student** ✦  
+<br>
+_Knowing my way around bits, bytes, and beautiful interfaces._
 
 ---
 
@@ -18,29 +17,29 @@
 ### Frontend
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CSS3-A678B4?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-C75C7D?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-A678B4?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-C75C7D?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-A678B4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-C75C7D?style=flat&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-A678B4?style=flat&logo=python&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-C75C7D?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-A678B4?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
 ---
@@ -48,10 +47,10 @@
 ## Interested In
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-C75C7D?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-0F172A?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-A678B4?style=flat&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scala-C75C7D?style=flat&logo=scala&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/>
 </p>
 
 ---
@@ -69,3 +68,4 @@
 <div align="center" style="opacity:0.6;font-size:12px;">
 crafted with clarity by Yarjá
 </div>
+
