@@ -60,14 +60,9 @@ _Knowing my way around bits, bytes, and beautiful interfaces._
 </p>
 
 
-### Currently Learning & Interested In
+### Interested In
 
-- C  
-- C++  
-- Assembly 
-- R 
-- Scala 
-
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 ---
 
