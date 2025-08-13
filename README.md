@@ -1,5 +1,3 @@
-<br>
-
 ![Banner](images/chi-banner.png)
 
 <br>
@@ -14,77 +12,43 @@ _Knowing my way around bits, bytes, and beautiful interfaces._
 
 ---
 
-### Languages & Tools
+## Languages & Tools
 
-<br>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-</p>
-
-
-### Interested In
-
-<br>
-<p align="left"> 
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
-  </a>
-  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/CSS3-D8B4DD?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-F5A9B8?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-2E2E2E?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-D8B4DD?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-F5A9B8?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-2E2E2E?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-D8B4DD?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-F5A9B8?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-2E2E2E?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-D8B4DD?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-F5A9B8?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-2E2E2E?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-D8B4DD?style=flat&logo=typescript&logoColor=white"/>
 </p>
 
 ---
 
-### 🎨 Design Tools
+## Interested In
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-F5A9B8?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-2E2E2E?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-D8B4DD?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-F5A9B8?style=flat&logo=scala&logoColor=white"/>
+</p>
+
+---
+
+## Design Tools
 
 - Adobe Photoshop  
 - Inkspace  
-_“My all-time favorites for creating and editing amazing visuals.”_
+*My all-time favorites for creating and editing amazing visuals.*
+
 ---
 
 *“Always curious, always growing.”*
