@@ -1,6 +1,6 @@
 <br>
 
-![Banner](images/banner-yarja.png)
+![Banner](images/chi-banner.png)
 
 <br>
 <div align="center">
