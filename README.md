@@ -80,12 +80,11 @@ _Knowing my way around bits, bytes, and beautiful interfaces._
 
 ---
 
-### Design Tools
+### 🎨 Design Tools
 
-**Adobe Photoshop & After Effects**  
-───────────────────────────────  
-My all-time favorites for creating and editing amazing visuals!
-
+- Adobe Photoshop  
+- Inkspace  
+_“My all-time favorites for creating and editing amazing visuals.”_
 ---
 
 *“Always curious, always growing.”*
