@@ -58,7 +58,7 @@ _Knowing my way around bits, bytes, and beautiful interfaces._
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 </p>
----
+
 
 ### Currently Learning & Interested In
 
