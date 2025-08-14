@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./images/chi-banner.png" alt="chi-banner" width="100%"/>
+</p>
 
 <br>
 <div align="center">
