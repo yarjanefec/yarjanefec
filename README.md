@@ -5,12 +5,8 @@
 <br>
 <div align="center">
 ❤︎
-</div>
+</div> 
 <br>
-
-✦ **Software Engineering student** ✦  
-<br>
-_Knowing my way around bits, bytes, and beautiful interfaces._
 
 ---
 
