@@ -45,13 +45,6 @@
 
 - Adobe Photoshop  
 - Inkspace  
-<em>My all-time favorites for creating and editing amazing visuals.</em>
 
----
 
-<p align="center"><strong><em>“always curious · always growing”</em></strong></p>
-
-<div align="center" style="opacity:0.6;font-size:12px;">
-crafted with clarity by Yarjá
-</div>
 
